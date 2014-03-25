@@ -1,6 +1,8 @@
 h1. Table Optimizer module for rah_backup
 
-"Packagist":https://packagist.org/packages/rah/rah_backup_sftp | "Twitter":http://twitter.com/gocom | "Donate":http://rahforum.biz/donate/rah_backup_sftp
+"Packagist":https://packagist.org/packages/rah/rah_backup_optimize | "Twitter":http://twitter.com/gocom | "Donate":http://rahforum.biz/donate/rah_backup_optimize
+
+This module optimizes all database tables when taking a backup with "rah_backup":https://github.com/gocom/rah_backup. The operation will defragment the database data file, and reclaims lost unused space. If contents in tables are changed extensively this may also lead to improved performance.
 
 h2. Install
 
