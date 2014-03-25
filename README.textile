@@ -1,0 +1,15 @@
+h1. Table Optimizer module for rah_backup
+
+"Packagist":https://packagist.org/packages/rah/rah_backup_sftp | "Twitter":http://twitter.com/gocom | "Donate":http://rahforum.biz/donate/rah_backup_sftp
+
+h2. Install
+
+Using "Composer":http://getcomposer.org:
+
+bc. $ composer require rah/rah_backup_optimize:*
+
+h2. Changelog
+
+h3. Version 0.1.0 - upcoming
+
+* Initial release.
