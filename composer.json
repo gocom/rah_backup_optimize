@@ -1,7 +1,7 @@
 {
     "name": "rah/rah_backup_optimize",
     "description": "Table optimizer module for rah_backup",
-    "keywords": ["textpattern", "plugin", "sftp", "rah_backup"],
+    "keywords": ["textpattern", "plugin", "optimize", "rah_backup"],
     "homepage": "https://github.com/gocom/rah_backup_optimize",
     "license": "GPL-2.0",
     "type": "textpattern-plugin",
