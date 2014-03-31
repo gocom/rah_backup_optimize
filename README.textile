@@ -12,6 +12,10 @@ bc. $ composer require rah/rah_backup_optimize:*
 
 h2. Changelog
 
+h3. Version 0.1.2 - 2014/03/31
+
+* Corrected reported version number.
+
 h3. Version 0.1.1 - 2014/03/31
 
 * Updated plugin type.
