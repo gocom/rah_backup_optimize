@@ -23,6 +23,8 @@
 
 /**
  * Optimizes database tables after backups have been taken.
+ *
+ * @internal
  */
 
 class Rah_Backup_Optimize
